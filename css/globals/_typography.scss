@@ -1,0 +1,45 @@
+// Typography
+
+
+%font-serif {
+    font-family: 'Playfair Display', Times, serif;
+}
+
+%font-sans {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: termina, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+::selection {
+    background-color: $color_main;
+    color: $color_second;
+}
+
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+    -webkit-font-smoothing: antialiased; // Fix fatty fonts
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: regular;
+    line-height: 1.2;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern"1;
+    font-kerning: normal;
+    @extend %font-sans;
+    color: $color_main;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.small-caps {
+    font-variant: small-caps;
+    font-weight: bolder;
+}
