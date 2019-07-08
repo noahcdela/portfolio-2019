@@ -7,45 +7,31 @@ body {
     overflow: auto;
 }
 
-// .main-wrapper {
-//     height: 100%;
-// }
-
 .container {
     margin: 0 auto;
     max-width: 90%;
     position: relative;
-    z-index: 10;
-
-    @include for-phone-only {
-        max-width: 90%;
-    }
 }
 
 .hero {
-    // position: fixed;
-    display: flex;
-    // align-items: center;
-    // height: 100vh;
-    bottom: 0;
+    position: relative;
 
     &__text {
         @extend %font-sans;
-        font-weight: lighter;
-        line-height: 1.5;
-        mix-blend-mode: multiply;
-        // pointer-events: none;
+        line-height: 1.45;
+        // mix-blend-mode: multiply;
+        color: lighten($color_main, 30%);
 
         @include for-phone-only {
-            font-size: 6vw;
+            font-size: 28px;
         }
 
         @include for-tablet-portrait-up {
-            font-size: 8vw;
+            font-size: 42px;
         }
 
         @include for-desktop-up {
-            font-size: 3.5vw;
+            font-size: 62px;
         }
     }
 
@@ -57,12 +43,13 @@ body {
 
 .paper__canvas {
     position: fixed;
+    top: 0;
     z-index: 2;
     height: 100vh;
     width: 100vw;
     mix-blend-mode: multiply;
     // pointer-events: none;
     @include for-phone-only {
-        display: none;
+        // display: none;
     }
 }

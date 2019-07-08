@@ -1,1 +1,1 @@
-$(function(){var e=new ScrollMagic.Controller,r=$(".hero__text"),o=$(".paper__canvas"),t=$(".hero"),n=TweenLite.to(t,1,{rotate:360}),a=new ScrollMagic.Scene({triggerElement:".scroll-section",triggerHook:.9,duration:"50%"}).addIndicators({name:"blur"}).setTween(n).addTo(e)});
+$(function(){});
