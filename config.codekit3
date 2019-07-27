@@ -7,7 +7,7 @@
 		"uuidString": "DB4C625E-0622-40B0-AF75-924465A12B16"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31491",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -17,57 +17,69 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
-	"/css/_footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/_footer.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+	"/css/.._footer.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/.._footer.scss.icloud",
+		"oF": 0
 		},
-	"/css/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+	"/css/.._header.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/.._header.scss.icloud",
+		"oF": 0
 		},
-	"/css/_nav.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/_nav.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+	"/css/.._nav.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/.._nav.scss.icloud",
+		"oF": 0
 		},
-	"/css/_page.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/_page.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+	"/css/.._page.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/.._page.scss.icloud",
+		"oF": 0
+		},
+	"/css/.main.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/.main.scss.icloud",
+		"oF": 0
+		},
+	"/css/globals/.._buttons.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/globals/.._buttons.scss.icloud",
+		"oF": 0
+		},
+	"/css/globals/.._normalize.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/globals/.._normalize.scss.icloud",
+		"oF": 0
+		},
+	"/css/globals/.._variables.scss.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/globals/.._variables.scss.icloud",
+		"oF": 0
 		},
 	"/css/globals/_base.scss": {
 		"aP": 0,
@@ -78,19 +90,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/css/globals/_base.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/css/globals/_buttons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/globals/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -108,19 +107,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/css/globals/_normalize.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/globals/_normalize.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/css/globals/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -134,19 +120,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/css/globals/_variables.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/globals/_variables.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -156,19 +129,6 @@
 		"oAP": "/css/main-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"/css/main.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/main.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		},
 	"/images/favicon-16x16.png": {
 		"ft": 32768,
@@ -310,6 +270,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -321,6 +282,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -460,6 +422,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -491,6 +456,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -585,11 +553,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -1594,6 +1561,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -2347,6 +2318,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
